@@ -20,7 +20,7 @@ Theses datasets were gotten from BusinessFinancing.co.uk in csv formats
 
 ---
 
-#Data Transformation
+# Data Transformation
 After analyzing these datasets with the help of Python and the Pandas library, these are a few of the insights gotten from the data.
 
 ![Screenshot 2023-05-02 061640](https://user-images.githubusercontent.com/80110291/235584632-9fd8b4c5-adb9-46f2-b0cc-f2b999fa386a.png)
@@ -41,7 +41,7 @@ The banking & finance sector has got a whooping 70302 total years in business, t
 
 ---
 
-#Findings
+# Findings
 Based on my analysis of the given datasets, I uncovered several key findings, such as:
 1. What country/continent has the oldest business in the world.
 2. What sector has the highest number of oldest businesses and the total number of years the sector has been existing.
